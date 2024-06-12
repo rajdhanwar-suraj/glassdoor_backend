@@ -22,7 +22,8 @@ const whitelist = [
   "http://localhost:3000",
   "http://localhost:5001",
   "https://glassdoor7050.netlify.app",
-  "http://glassdoor7050.netlify.app"
+  "http://glassdoor7050.netlify.app",
+  "https://glassdoor-backend.vercel.app"
 ];
 const corsOptions = {
   origin: function (origin, callback) {
